@@ -1,16 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import Link from './components/Link'
 import './App.scss';
 
+
 function App() {
+  const text = "jfjjhghjjvhhgvjh";
+  const onClickText = () => {
+    console.log('dfgdfgfdg')
+  }
+
+  const array = [1,2,3,4,5];
+
   return (
     <>
-   <Link></Link>
-   <div className="box">
-
-   </div>
+    <div className="container box">
+      <p className></p>
+    </div>
    
+
    </>
   );
 }
