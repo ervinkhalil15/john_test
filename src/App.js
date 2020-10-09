@@ -15,7 +15,7 @@ function App() {
     <div className="container box">
       <p className></p>
       <a>dksg</a>
-      <div></div>
+      <div>Загасимся сегодня, да?</div>
     </div>
    
 
