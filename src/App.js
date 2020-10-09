@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     <div className="container box">
-      <p className></p>
+      <p className>sdfsdf</p>
       <a>dksg</a>
       <div>снимай рубаху</div>
     </div>
