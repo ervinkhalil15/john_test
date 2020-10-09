@@ -7,7 +7,10 @@ function App() {
   return (
     <>
    <Link></Link>
-   <a></a>
+   <div className="box">
+
+   </div>
+   
    </>
   );
 }
